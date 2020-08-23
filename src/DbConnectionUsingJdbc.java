@@ -28,8 +28,8 @@ public class DbConnectionUsingJdbc {
 		connection.close();
 	}
 	
-	static void P(String msg) {
-		System.out.println(msg);
+	static void P(String message) {
+		System.out.println(message);
 	}
 
 }
